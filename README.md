@@ -2,6 +2,12 @@
 
 A dynamic and feature-rich web application designed to enhance user engagement and streamline communication for gym enthusiasts. Built with modern web technologies, the application offers interactive tools and a seamless user experience.
 
+![Screenshot (25)](https://github.com/user-attachments/assets/5506e0fe-8d1a-40d8-91a2-8e056ca0fb4b)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/9f54e371-bd4b-4b4a-b6d7-45fa44a3f733)
+![Screenshot (23)](https://github.com/user-attachments/assets/99e47142-3b01-4718-821d-95f23a586cf6)
+
+
 ## Features
 
 - **Responsive Frontend**: Built with React to ensure a user-friendly and responsive interface across devices.
